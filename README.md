@@ -243,7 +243,7 @@ $$\min_{p, q} \sum_{(u, i) \in K} (r_{ui} - p_u^T q_i)^2 + \lambda(||p_u||^2 + |
 
 ## 📧 Контакты
 
-- GitHub: [@techn4r](https://github.com/techn4r)
+- GitHub: [@techn4r](https://github.com/ssivitskiy)
 - Email: stepan.sivitsky@yandex.ru
 
 ---
